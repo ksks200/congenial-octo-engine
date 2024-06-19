@@ -1,3 +1,4 @@
+# This script deletes a set of tag names and their values from all azure resources in a specific subscription. The script accepts multiple subscription.
 # Define the list of subscriptions and tag names 
 $subscriptions = @(
     "Subscription1",
